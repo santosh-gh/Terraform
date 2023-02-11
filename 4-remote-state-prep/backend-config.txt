@@ -1,5 +1,5 @@
-storage_account_name = "itma65666"
+storage_account_name = "it656"
 container_name = "terraform-state"
 key = "terraform.tfstate"
-sas_token = "?sv=2017-07-29&ss=b&srt=sco&sp=rwdlac&se=2025-02-10T11:25:10Z&st=2023-02-11T11:25:10Z&spr=https&sig=fTgneHKshM6U3bIihvcflXTiL81u1pmyBFlYi%2FMYMF0%3D"
+sas_token = ""
 
